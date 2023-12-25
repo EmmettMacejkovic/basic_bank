@@ -1,4 +1,4 @@
-<!-- # 🏦 Basic Bank -->
+<*--*  🏦 Basic Bank -->
 
 [//]: # (<img alt="workshop/basic_bank" width="1412" src="../.resources/basic_bank.png">)
 
@@ -69,3 +69,4 @@ leo run issue
 leo run deposit
 leo run withdraw
 ```
+ 
